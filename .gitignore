@@ -4,7 +4,9 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
-resources
+application-test.properties
+application-dev.properties
+import.sql
 mvnw
 mvnw.cmd
 .mvn
